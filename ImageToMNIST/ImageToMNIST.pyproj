@@ -41,6 +41,8 @@
     <Folder Include="training-images\1\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Convert Image to MNIST.png" />
+    <Content Include="help.png" />
     <Content Include="test-images\0\im1.png" />
     <Content Include="test-images\0\im10022.png" />
     <Content Include="test-images\0\im10069.png" />
